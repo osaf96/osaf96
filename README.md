@@ -1,6 +1,6 @@
 # 💻 Osaf Ali - Software Engineer and Freelance Developer
 
-I am a software engineer and freelance developer with 3.5 years of experience. In my full-time role, I work on building and maintaining software applications. In my freelance work, I have contributed to an open beta application built in React and have a 100% job success score on Upwork. I am proficient in the following technologies:
+I am a software engineer and freelance developer with 3.5 years of experience. In my full-time role, I work on building and maintaining software applications. In my freelance work, I have contributed to an open beta application built in React and have a 💯% job success score on Upwork. I am proficient in the following technologies:
 
 ## 💪 Skills
 
