@@ -26,4 +26,4 @@ I am a software engineer and freelance developer with 3.5 years of experience. I
 
 You can reach me at osafali@example.com or [Linkedin](https://www.linkedin.com/in/osaf-ali/) / [Upwork](https://www.upwork.com/freelancers/~01c7fd3a17c8f0238b) for inquiries or collaboration opportunities. I look forward to hearing from you! 🤝
 
-![Code GIF]([https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif))
+![Code GIF](https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif](https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif)
