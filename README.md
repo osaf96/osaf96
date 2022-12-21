@@ -7,14 +7,14 @@ I am a software engineer and freelance developer with 3.5 years of experience. I
 - 🌀 [Angular](https://angular.io/)
 - 🌐 [.NET Core](https://dotnet.microsoft.com/download/dotnet-core)
 - 💻 [React](https://reactjs.org/)
-- Next js
-- Javascript/Typescript
-- HTML/CSS/SCSS
-- Tailwing
-- Ionic/React Native
-- Docker
-- C++ / Python
-- Problem Solving
+- 💻 [Next.js](https://nextjs.org/)
+- 💾 [Javascript/Typescript](https://www.javascript.com/)
+- 📄 [HTML/CSS/SCSS](https://www.w3.org/standards/webdesign/htmlcss)
+- 🎨 [Tailwind CSS](https://tailwindcss.com/)
+- 📱 [Ionic/React Native](https://ionicframework.com/)
+- 🐳 [Docker](https://www.docker.com/)
+- 🐍 [C++ / Python](https://www.python.org/)
+- 🔍 [Problem Solving](https://en.wikipedia.org/wiki/Problem_solving)
 
 ## 📈 Experience
 
@@ -24,7 +24,7 @@ I am a software engineer and freelance developer with 3.5 years of experience. I
 
 ## 📧 Contact
 
-You can reach me at osafali@example.com or [Linkedin](https://www.linkedin.com/in/osaf-ali/) / [Upwork](https://www.upwork.com/freelancers/~01c7fd3a17c8f0238b) for inquiries or collaboration opportunities. I look forward to hearing from you! 🤝
+You can reach me at osaf96@gmail.com or [Linkedin](https://www.linkedin.com/in/osaf-ali/) / [Upwork](https://www.upwork.com/freelancers/~01c7fd3a17c8f0238b) for inquiries or collaboration opportunities. I look forward to hearing from you! 🤝
 
 <p align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" alt="Code GIF">
