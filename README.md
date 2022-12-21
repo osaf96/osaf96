@@ -5,7 +5,7 @@ I am a software engineer and freelance developer with 3.5 years of experience. I
 ## 💪 Skills
 
 - 🌀 [Angular](https://angular.io/)
-- 🌐 [.NET Core](https://dotnet.microsoft.com/download/dotnet-core)
+- 🌐 [.NET Core/Node Js](https://dotnet.microsoft.com/download/dotnet-core)
 - 💻 [React](https://reactjs.org/)
 - 💻 [Next.js](https://nextjs.org/)
 - 💾 [Javascript/Typescript](https://www.javascript.com/)
