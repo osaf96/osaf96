@@ -24,4 +24,4 @@ I am a software engineer and freelance developer with 3.5 years of experience. I
 
 ## Contact
 
-You can reach me at osaf96@gmail.com or [Linkedin](https://www.linkedin.com/in/osaf-ali/) for inquiries or collaboration opportunities. I look forward to hearing from you!
+You can reach me at osaf96@gmail.com or [Linkedin](https://www.linkedin.com/in/osaf-ali/) / [Upwork](https://www.upwork.com/freelancers/~01c7fd3a17c8f0238b) for inquiries or collaboration opportunities. I look forward to hearing from you!
