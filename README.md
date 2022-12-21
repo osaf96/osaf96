@@ -21,7 +21,7 @@ I am a software engineer and freelance developer with 3.5 years of experience. I
 - 3.5 years of experience as a software engineer and freelance developer
 - Part of the core team after Contributed to open beta organization
 - 💯% job success score on [Upwork](https://www.upwork.com/freelancers/~01c7fd3a17c8f0238b)
-- Involved in the development of [Fan4all](https://play.google.com/store/apps/details?id=com.fan4all.app&hl=en&gl=US&pli=1), a mobile and web app that has more than 10k downloads on the Play Store
+- Involved in the development of [Fan4all](https://play.google.com/store/apps/details?id=com.fan4all.app&hl=en&gl=US&pli=1), a mobile app version has more than 10k downloads on the Play Store
 
 ## 📧 Contact
 
