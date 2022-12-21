@@ -20,8 +20,8 @@ I am a software engineer and freelance developer with 3.5 years of experience. I
 
 - 3.5 years of experience as a software engineer and freelance developer
 - Contributed to an open beta application built in React
-- 100% job success score on Upwork
+- 100% job success score on [Upwork](https://www.upwork.com/freelancers/~01c7fd3a17c8f0238b)
 
 ## Contact
 
-You can reach me at osaf96@gmail.com or https://www.linkedin.com/in/osaf-ali/ for inquiries or collaboration opportunities. I look forward to hearing from you!
+You can reach me at osaf96@gmail.com or [Linkedin](https://www.linkedin.com/in/osaf-ali/) for inquiries or collaboration opportunities. I look forward to hearing from you!
