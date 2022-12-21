@@ -1,12 +1,12 @@
-# Osaf Ali - Software Engineer and Freelance Developer
+# 💻 Osaf Ali - Software Engineer and Freelance Developer
 
-I am a software engineer and freelance developer with 3.5 years of experience. In my full-time role, I work on building and maintaining software applications. In my freelance work, I have completed 9 jobs and have a 100% job success score on Upwork. I am proficient in Angular, .NET Core, and React and am always looking for new opportunities to contribute to interesting projects. 
+I am a software engineer and freelance developer with 3.5 years of experience. In my full-time role, I work on building and maintaining software applications. In my freelance work, I have contributed to an open beta application built in React and have a 100% job success score on Upwork. I am proficient in the following technologies:
 
-## Skills
+## 💪 Skills
 
-- Angular
-- .NET Core
-- React
+- 🌀 [Angular](https://angular.io/)
+- 🌐 [.NET Core](https://dotnet.microsoft.com/download/dotnet-core)
+- 💻 [React](https://reactjs.org/)
 - Next js
 - Javascript/Typescript
 - HTML/CSS/SCSS
@@ -16,12 +16,14 @@ I am a software engineer and freelance developer with 3.5 years of experience. I
 - C++ / Python
 - Problem Solving
 
-## Experience
+## 📈 Experience
 
 - 3.5 years of experience as a software engineer and freelance developer
 - Contributed to an open beta application built in React
-- 100% job success score on [Upwork](https://www.upwork.com/freelancers/~01c7fd3a17c8f0238b)
+- 💯% job success score on [Upwork](https://www.upwork.com/freelancers/~01c7fd3a17c8f0238b)
 
-## Contact
+## 📧 Contact
 
-You can reach me at osaf96@gmail.com or [Linkedin](https://www.linkedin.com/in/osaf-ali/) / [Upwork](https://www.upwork.com/freelancers/~01c7fd3a17c8f0238b) for inquiries or collaboration opportunities. I look forward to hearing from you!
+You can reach me at osafali@example.com or [Linkedin](https://www.linkedin.com/in/osaf-ali/) / [Upwork](https://www.upwork.com/freelancers/~01c7fd3a17c8f0238b) for inquiries or collaboration opportunities. I look forward to hearing from you! 🤝
+
+![Code GIF](https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif)
