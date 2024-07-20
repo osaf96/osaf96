@@ -10,11 +10,7 @@ I'm a seasoned Full Stack Developer with expertise in Angular, Node.js, and Reac
 * ✉️  You can contact me at [osaf96@gmail.com](mailto:osaf96@gmail.com)
 * 🧠  I'm learning AI/Deep Learning
 * 🤝  I'm open to collaborating on interesting AI related projects
-
-<a href="https://www.x.com/" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
+ 
 ### Skills
 
 
