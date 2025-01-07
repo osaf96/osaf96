@@ -10,7 +10,7 @@ I'm a seasoned Full Stack Developer with expertise in Angular, Node.js, and Reac
 * 🖥️  See my portfolio at [osafali.com](https://osafali.com)
 * ✉️  You can contact me at [osaf96@gmail.com](mailto:osaf96@gmail.com)
 * 🧠  I'm learning AI/Deep Learning
-* 🤝  I'm open to collaborating on interesting AI related projects
+* 🤝  I'm open to collaborating on interesting projects
  
 ### Skills
 
