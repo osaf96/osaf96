@@ -6,7 +6,7 @@ Software Engineer
 
 I'm a seasoned Full Stack Developer with expertise in Angular, Node.js, and React. I have a strong background in building scalable web and mobile applications, integrating advanced tools like Adobe Target, and utilizing cloud services such as AWS and Docker. I also freelance on Upwork with a 100% job success score. I have worked with the startup Fan4All on their mobile and web app, which achieved over 100k downloads on the Google Play Store. Currently, I'm exploring AI and deep learning, and I'm working on projects involving large language models (LLMs).
 
-* 🌍  I'm based in Pakistan
+* 🌍  I'm based in Lubeck (Germany)
 * 🖥️  See my portfolio at [osafali.com](https://osafali.com)
 * ✉️  You can contact me at [osaf96@gmail.com](mailto:osaf96@gmail.com)
 * 🧠  I'm learning AI/Deep Learning
